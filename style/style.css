@@ -233,25 +233,25 @@ body {
 }
 
 /* Media Queries */
-@media screen and (max-height: 1000px) {
+@media screen and (max-height: 1100px) {
   .six .hat {
     left: 40%;
   }
 }
 
-@media screen and (max-height: 800px) {
+@media screen and (max-height: 1000px) {
   .six .hat {
     left: 50%;
   }
 }
 
-@media screen and (max-height: 700px) {
+@media screen and (max-height: 1000px) {
   .six .hat {
     left: 50%;
   }
 }
 
-@media screen and (max-height: 850px) and (max-width: 450px) {
+@media screen and (max-height: 1000px) and (max-width: 450px) {
   .six .hat {
     left: 50%;
   }
